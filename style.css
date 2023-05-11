@@ -1,0 +1,16 @@
+header{
+    font-size: 100px;
+    font-family: 'Staatliches', cursive;
+    color: white;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    width: auto;
+    height: 400px;
+    background-color: black;
+}
+
+body{
+    background-color: #242424;
+}
