@@ -10,7 +10,23 @@ header{
     height: 400px;
     background-color: black;
 }
+main {
+    color: white;
+    width: 800px;
+    margin: auto;
+    padding: 105px;
+}
+.maincontent{
+    font-family: 'Lexend', sans-serif;
+    color:white;
+    margin-bottom: 40px;
+}
 
 body{
+    color: white;
     background-color: #242424;
+}
+
+h2{
+    font-family: 'Press Start 2P', cursive;
 }
