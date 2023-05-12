@@ -1,1 +1,3 @@
-# portfoliowebsite
+# ALL COPYRIGHTS RESERVED 
+AUTHOR -- Kociarz (dbednorz@tuta.io)
+DO NOT MODIFY WITHOUT THE CREATOR PERMISSION
