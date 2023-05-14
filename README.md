@@ -1,3 +1,3 @@
 # ALL COPYRIGHTS RESERVED 
-AUTHOR -- Kociarz (dbednorz@tuta.io)
+AUTHOR -- Kociarz (catsenjoyers.pl)
 DO NOT MODIFY WITHOUT THE CREATOR PERMISSION
